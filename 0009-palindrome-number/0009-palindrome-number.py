@@ -4,14 +4,7 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        x=str(x)
-        n=len(x)
-        t=1
-        for i in range(n//2):
-            if x[i]!=x[n-i-1]:
-                t=0
-        if t==1:
-            return True
-        else :
-            return False
+        str_x = str(x)
+        reverse_x = str_x[::-1]
+        return str_x == reverse_x
 
