@@ -1,6 +1,6 @@
 # LeetCode
 A collection of LeetCode questions to ace the coding interview!    
-[MyLeetCode account](https://leetcode.com/u/albertzry/)
+[My LeetCode account](https://leetcode.com/u/albertzry/)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
