@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Albertzry/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Albertzry/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Albertzry/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/Albertzry/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Albertzry/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Albertzry/LeetCode/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
