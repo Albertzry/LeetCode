@@ -19,7 +19,7 @@ class Solution(object):
         temp = []
         backtrack(0, temp)
         return result
-#下面是另外一种回溯，不用pop
+#下面是另外一种回溯，不用pop元素
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         candidates.sort()
@@ -36,5 +36,3 @@ class Solution:
                     return
         find(0, [], target)
         return ans
-
-            
