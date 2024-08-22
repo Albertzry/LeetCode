@@ -6,15 +6,21 @@ class Solution(object):
         """
         result=[]
         temp=[]
-        def backtracking(current,temp):
+        path=[]
+        def backtracking(temp):
             if len(temp)==len(nums):
                 if temp not in result:
                     result.append(temp[:])
                 return
-            for i in range(current+1,len(nums)):
-                temp.append(nums[i])
-                backtracking(i,temp)
+            for i in range(len(nums)):
+                if i not in path:
+                    temp.append(nums[i])
+                    path.append(i)
+                else:
+                    continue
+                backtracking(temp)
                 temp.pop()
+                path.pop()
             return
-        backtracking(0,temp)
+        backtracking(temp)
         return sorted(result)
