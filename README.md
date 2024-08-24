@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Albertzry/LeetCode/tree/master/0029-divide-two-integers) |
+| [0476-number-complement](https://github.com/Albertzry/LeetCode/tree/master/0476-number-complement) |
 ## Matrix
 |  |
 | ------- |
