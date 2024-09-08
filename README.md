@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Albertzry/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Albertzry/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Albertzry/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Albertzry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Albertzry/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Albertzry/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Albertzry/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Albertzry/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Albertzry/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
