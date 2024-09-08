@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
 | [0906-walking-robot-simulation](https://github.com/Albertzry/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1019-squares-of-a-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Albertzry/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1284-four-divisors](https://github.com/Albertzry/LeetCode/tree/master/1284-four-divisors) |
 | [1325-path-with-maximum-probability](https://github.com/Albertzry/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Albertzry/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Albertzry/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1019-squares-of-a-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Albertzry/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Albertzry/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Albertzry/LeetCode/tree/master/0049-group-anagrams) |
+| [1019-squares-of-a-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
 ## Backtracking
