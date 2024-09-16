@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Albertzry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
+| [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
 | [0906-walking-robot-simulation](https://github.com/Albertzry/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/Albertzry/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Albertzry/LeetCode/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Albertzry/LeetCode/tree/master/0441-arranging-coins) |
+| [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Albertzry/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Albertzry/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1284-four-divisors](https://github.com/Albertzry/LeetCode/tree/master/1284-four-divisors) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/Albertzry/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Albertzry/LeetCode/tree/master/0049-group-anagrams) |
 | [0434-number-of-segments-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Albertzry/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Albertzry/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/Albertzry/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Albertzry/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
