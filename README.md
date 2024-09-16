@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Albertzry/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1284-four-divisors](https://github.com/Albertzry/LeetCode/tree/master/1284-four-divisors) |
+| [1287-distance-between-bus-stops](https://github.com/Albertzry/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Albertzry/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Albertzry/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Albertzry/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
