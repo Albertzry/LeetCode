@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/Albertzry/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Albertzry/LeetCode/tree/master/2155-find-missing-observations) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Albertzry/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Albertzry/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2411-spiral-matrix-iv](https://github.com/Albertzry/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Albertzry/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Albertzry/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Albertzry/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Albertzry/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Albertzry/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Albertzry/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2673-maximize-win-from-two-segments](https://github.com/Albertzry/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
