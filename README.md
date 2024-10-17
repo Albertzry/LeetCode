@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Albertzry/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Albertzry/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0670-maximum-swap](https://github.com/Albertzry/LeetCode/tree/master/0670-maximum-swap) |
 | [1284-four-divisors](https://github.com/Albertzry/LeetCode/tree/master/1284-four-divisors) |
 | [2155-find-missing-observations](https://github.com/Albertzry/LeetCode/tree/master/2155-find-missing-observations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Albertzry/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Albertzry/LeetCode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Albertzry/LeetCode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Albertzry/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Albertzry/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Albertzry/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Albertzry/LeetCode/tree/master/1304-longest-happy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Albertzry/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
