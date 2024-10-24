@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Albertzry/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Albertzry/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Albertzry/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Albertzry/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Albertzry/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Albertzry/LeetCode/tree/master/2035-count-sub-islands) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Albertzry/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Albertzry/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Albertzry/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Albertzry/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
