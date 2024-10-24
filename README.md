@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3398-make-a-square-with-the-same-color](https://github.com/Albertzry/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Albertzry/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3034-points-that-intersect-with-cars](https://github.com/Albertzry/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Albertzry/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/Albertzry/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Albertzry/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Number Theory
 |  |
 | ------- |
