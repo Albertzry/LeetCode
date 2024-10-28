@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Albertzry/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Albertzry/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Albertzry/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Albertzry/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2411-spiral-matrix-iv](https://github.com/Albertzry/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/Albertzry/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Albertzry/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Albertzry/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3447-clear-digits](https://github.com/Albertzry/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
