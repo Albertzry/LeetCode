@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Albertzry/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Albertzry/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Albertzry/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Albertzry/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Albertzry/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2673-maximize-win-from-two-segments](https://github.com/Albertzry/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/Albertzry/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Albertzry/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Albertzry/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Albertzry/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3034-points-that-intersect-with-cars](https://github.com/Albertzry/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2294-minimum-time-to-complete-trips](https://github.com/Albertzry/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Albertzry/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2673-maximize-win-from-two-segments](https://github.com/Albertzry/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Divide and Conquer
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2682-count-increasing-quadruplets](https://github.com/Albertzry/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Albertzry/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Albertzry/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Albertzry/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
