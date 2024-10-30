@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Albertzry/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Albertzry/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Albertzry/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Albertzry/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Albertzry/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1923-sentence-similarity-iii](https://github.com/Albertzry/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/Albertzry/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Albertzry/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Albertzry/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Albertzry/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Albertzry/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Albertzry/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2682-count-increasing-quadruplets](https://github.com/Albertzry/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Albertzry/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Albertzry/LeetCode/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Albertzry/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Albertzry/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Albertzry/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
