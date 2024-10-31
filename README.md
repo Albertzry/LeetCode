@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Albertzry/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Albertzry/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Albertzry/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/Albertzry/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Albertzry/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Albertzry/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/Albertzry/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2682-count-increasing-quadruplets](https://github.com/Albertzry/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/Albertzry/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Albertzry/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Albertzry/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/Albertzry/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Albertzry/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
