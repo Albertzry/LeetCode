@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Albertzry/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Albertzry/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3486-count-the-number-of-good-nodes](https://github.com/Albertzry/LeetCode/tree/master/3486-count-the-number-of-good-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2035-count-sub-islands](https://github.com/Albertzry/LeetCode/tree/master/2035-count-sub-islands) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Albertzry/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Albertzry/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3486-count-the-number-of-good-nodes](https://github.com/Albertzry/LeetCode/tree/master/3486-count-the-number-of-good-nodes) |
 ## Binary Tree
 |  |
 | ------- |
