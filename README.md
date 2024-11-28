@@ -488,6 +488,7 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Albertzry/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Albertzry/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Albertzry/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Albertzry/LeetCode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Albertzry/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions and my solution.
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Albertzry/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
+| [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Albertzry/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions and my solution.
 | [0130-surrounded-regions](https://github.com/Albertzry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
+| [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Albertzry/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/Albertzry/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0833-bus-routes](https://github.com/Albertzry/LeetCode/tree/master/0833-bus-routes) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions and my solution.
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Albertzry/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Albertzry/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Albertzry/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions and my solution.
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Albertzry/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Albertzry/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/Albertzry/LeetCode/tree/master/2803-modify-graph-edge-weights) |
