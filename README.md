@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3463-alternating-groups-i](https://github.com/Albertzry/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Albertzry/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Albertzry/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Albertzry/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2673-maximize-win-from-two-segments](https://github.com/Albertzry/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Albertzry/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/Albertzry/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Albertzry/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Albertzry/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Binary Search
