@@ -117,6 +117,7 @@ A collection of LeetCode questions and my solution.
 | [3483-alternating-groups-ii](https://github.com/Albertzry/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Albertzry/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3519-find-the-number-of-winning-players](https://github.com/Albertzry/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Albertzry/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Albertzry/LeetCode/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions and my solution.
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3519-find-the-number-of-winning-players](https://github.com/Albertzry/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## Linked List
 |  |
 | ------- |
@@ -709,6 +711,7 @@ A collection of LeetCode questions and my solution.
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Albertzry/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3519-find-the-number-of-winning-players](https://github.com/Albertzry/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## Number Theory
 |  |
 | ------- |
