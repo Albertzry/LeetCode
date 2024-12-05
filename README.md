@@ -282,6 +282,7 @@ A collection of LeetCode questions and my solution.
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Albertzry/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Albertzry/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2232-adding-spaces-to-a-string](https://github.com/Albertzry/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Albertzry/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Albertzry/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Albertzry/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Albertzry/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions and my solution.
 | [1972-rotating-the-box](https://github.com/Albertzry/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Albertzry/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Albertzry/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Albertzry/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Albertzry/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Albertzry/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Albertzry/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
