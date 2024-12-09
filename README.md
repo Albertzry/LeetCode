@@ -117,6 +117,7 @@ A collection of LeetCode questions and my solution.
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Albertzry/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3427-special-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3427-special-array-ii) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3463-alternating-groups-i](https://github.com/Albertzry/LeetCode/tree/master/3463-alternating-groups-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions and my solution.
 | [2699-count-the-number-of-fair-pairs](https://github.com/Albertzry/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/Albertzry/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -729,6 +731,7 @@ A collection of LeetCode questions and my solution.
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Albertzry/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2682-count-increasing-quadruplets](https://github.com/Albertzry/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [3034-points-that-intersect-with-cars](https://github.com/Albertzry/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3427-special-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3427-special-array-ii) |
 ## Enumeration
 |  |
 | ------- |
