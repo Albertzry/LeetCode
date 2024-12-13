@@ -101,6 +101,7 @@ A collection of LeetCode questions and my solution.
 | [2673-maximize-win-from-two-segments](https://github.com/Albertzry/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
 | [2682-count-increasing-quadruplets](https://github.com/Albertzry/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Albertzry/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Albertzry/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Albertzry/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions and my solution.
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Albertzry/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Albertzry/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Albertzry/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Albertzry/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3034-points-that-intersect-with-cars](https://github.com/Albertzry/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Albertzry/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions and my solution.
 | [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Albertzry/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Albertzry/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Albertzry/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions and my solution.
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Albertzry/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Albertzry/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Albertzry/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Albertzry/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Albertzry/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
@@ -615,6 +619,7 @@ A collection of LeetCode questions and my solution.
 | [2411-spiral-matrix-iv](https://github.com/Albertzry/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/Albertzry/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Albertzry/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Albertzry/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Albertzry/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Albertzry/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3447-clear-digits](https://github.com/Albertzry/LeetCode/tree/master/3447-clear-digits) |
