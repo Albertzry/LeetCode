@@ -109,6 +109,7 @@ A collection of LeetCode questions and my solution.
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Albertzry/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3034-points-that-intersect-with-cars](https://github.com/Albertzry/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions and my solution.
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Albertzry/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Albertzry/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2673-maximize-win-from-two-segments](https://github.com/Albertzry/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
+| [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Albertzry/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Albertzry/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Albertzry/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions and my solution.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Albertzry/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Albertzry/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -783,6 +786,7 @@ A collection of LeetCode questions and my solution.
 | [0859-design-circular-deque](https://github.com/Albertzry/LeetCode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Albertzry/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Brainteaser
 |  |
 | ------- |
@@ -818,6 +822,7 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [0729-my-calendar-i](https://github.com/Albertzry/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Albertzry/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -830,6 +835,7 @@ A collection of LeetCode questions and my solution.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Albertzry/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Eulerian Circuit
 |  |
 | ------- |
