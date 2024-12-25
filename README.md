@@ -660,6 +660,7 @@ A collection of LeetCode questions and my solution.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Albertzry/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Albertzry/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Albertzry/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions and my solution.
 | [0145-binary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Albertzry/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Albertzry/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions and my solution.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Albertzry/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Albertzry/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Albertzry/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions and my solution.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Albertzry/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0130-surrounded-regions](https://github.com/Albertzry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Albertzry/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Albertzry/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
