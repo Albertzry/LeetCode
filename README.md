@@ -33,6 +33,7 @@ A collection of LeetCode questions and my solution.
 | [0130-surrounded-regions](https://github.com/Albertzry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/Albertzry/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
+| [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Albertzry/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions and my solution.
 | [0044-wildcard-matching](https://github.com/Albertzry/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Albertzry/LeetCode/tree/master/0045-jump-game-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions and my solution.
 | [0040-combination-sum-ii](https://github.com/Albertzry/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Albertzry/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Albertzry/LeetCode/tree/master/0047-permutations-ii) |
+| [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Albertzry/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Albertzry/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
