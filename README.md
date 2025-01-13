@@ -200,6 +200,7 @@ A collection of LeetCode questions and my solution.
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Albertzry/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/Albertzry/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions and my solution.
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Albertzry/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/Albertzry/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Albertzry/LeetCode/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Albertzry/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -862,6 +864,7 @@ A collection of LeetCode questions and my solution.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Albertzry/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Albertzry/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3519-find-the-number-of-winning-players](https://github.com/Albertzry/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## Number Theory
 |  |
