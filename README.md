@@ -496,6 +496,7 @@ A collection of LeetCode questions and my solution.
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Albertzry/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Albertzry/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Albertzry/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/Albertzry/LeetCode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Albertzry/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Albertzry/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions and my solution.
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Albertzry/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Albertzry/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Albertzry/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/Albertzry/LeetCode/tree/master/2509-minimize-xor) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Albertzry/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Albertzry/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
