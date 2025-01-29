@@ -759,6 +759,7 @@ A collection of LeetCode questions and my solution.
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Albertzry/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Albertzry/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Albertzry/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions and my solution.
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Albertzry/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Albertzry/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/Albertzry/LeetCode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
 | [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Albertzry/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions and my solution.
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Albertzry/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Albertzry/LeetCode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Albertzry/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Albertzry/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -863,6 +866,7 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [0130-surrounded-regions](https://github.com/Albertzry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Albertzry/LeetCode/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Albertzry/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/Albertzry/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Albertzry/LeetCode/tree/master/2035-count-sub-islands) |
