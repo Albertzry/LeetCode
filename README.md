@@ -78,6 +78,7 @@ A collection of LeetCode questions and my solution.
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Albertzry/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/Albertzry/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Albertzry/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Albertzry/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Albertzry/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Albertzry/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
