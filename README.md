@@ -145,6 +145,7 @@ A collection of LeetCode questions and my solution.
 | [3291-find-if-array-can-be-sorted](https://github.com/Albertzry/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Albertzry/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Albertzry/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Albertzry/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Albertzry/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Albertzry/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Albertzry/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
