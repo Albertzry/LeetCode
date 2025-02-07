@@ -156,6 +156,7 @@ A collection of LeetCode questions and my solution.
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Albertzry/LeetCode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Albertzry/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3463-alternating-groups-i](https://github.com/Albertzry/LeetCode/tree/master/3463-alternating-groups-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions and my solution.
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Albertzry/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Albertzry/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Albertzry/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions and my solution.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Albertzry/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Albertzry/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/Albertzry/LeetCode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Albertzry/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Albertzry/LeetCode/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Albertzry/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
