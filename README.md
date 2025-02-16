@@ -281,6 +281,7 @@ A collection of LeetCode questions and my solution.
 | [2448-count-number-of-bad-pairs](https://github.com/Albertzry/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Albertzry/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Albertzry/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Albertzry/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Albertzry/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Albertzry/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions and my solution.
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Albertzry/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Albertzry/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Albertzry/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
 |  |
 | ------- |
