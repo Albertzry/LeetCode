@@ -48,6 +48,7 @@ A collection of LeetCode questions and my solution.
 | [0859-design-circular-deque](https://github.com/Albertzry/LeetCode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Albertzry/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Albertzry/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
 | [0952-word-subsets](https://github.com/Albertzry/LeetCode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Albertzry/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions and my solution.
 | [0833-bus-routes](https://github.com/Albertzry/LeetCode/tree/master/0833-bus-routes) |
 | [0906-walking-robot-simulation](https://github.com/Albertzry/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Albertzry/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Albertzry/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Albertzry/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Albertzry/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Albertzry/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Albertzry/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -780,6 +783,7 @@ A collection of LeetCode questions and my solution.
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Albertzry/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Albertzry/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -838,6 +842,7 @@ A collection of LeetCode questions and my solution.
 | [0144-binary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Albertzry/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Albertzry/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
