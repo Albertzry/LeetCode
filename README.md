@@ -291,6 +291,7 @@ A collection of LeetCode questions and my solution.
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
 | [1284-four-divisors](https://github.com/Albertzry/LeetCode/tree/master/1284-four-divisors) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Albertzry/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Albertzry/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/Albertzry/LeetCode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Albertzry/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Albertzry/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
