@@ -390,6 +390,7 @@ A collection of LeetCode questions and my solution.
 | [2300-construct-string-with-repeat-limit](https://github.com/Albertzry/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Albertzry/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Albertzry/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Albertzry/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Albertzry/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Albertzry/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Albertzry/LeetCode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions and my solution.
 | [1755-defuse-the-bomb](https://github.com/Albertzry/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Albertzry/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Albertzry/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Albertzry/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Albertzry/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2673-maximize-win-from-two-segments](https://github.com/Albertzry/LeetCode/tree/master/2673-maximize-win-from-two-segments) |
