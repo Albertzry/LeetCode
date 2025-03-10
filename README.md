@@ -285,6 +285,7 @@ A collection of LeetCode questions and my solution.
 | [0050-powx-n](https://github.com/Albertzry/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Albertzry/LeetCode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Albertzry/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Albertzry/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0441-arranging-coins](https://github.com/Albertzry/LeetCode/tree/master/0441-arranging-coins) |
 | [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions and my solution.
 | [0042-trapping-rain-water](https://github.com/Albertzry/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Albertzry/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Albertzry/LeetCode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Albertzry/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions and my solution.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Albertzry/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
