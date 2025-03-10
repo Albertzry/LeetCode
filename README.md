@@ -294,6 +294,7 @@ A collection of LeetCode questions and my solution.
 | [0670-maximum-swap](https://github.com/Albertzry/LeetCode/tree/master/0670-maximum-swap) |
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/Albertzry/LeetCode/tree/master/1284-four-divisors) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Albertzry/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Albertzry/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions and my solution.
 | [1025-minimum-cost-for-tickets](https://github.com/Albertzry/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Albertzry/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/Albertzry/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Albertzry/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions and my solution.
 | [0070-climbing-stairs](https://github.com/Albertzry/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Rolling Hash
 |  |
 | ------- |
