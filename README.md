@@ -42,6 +42,7 @@ A collection of LeetCode questions and my solution.
 | [0690-employee-importance](https://github.com/Albertzry/LeetCode/tree/master/0690-employee-importance) |
 | [0729-my-calendar-i](https://github.com/Albertzry/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Albertzry/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/Albertzry/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Albertzry/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Albertzry/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0833-bus-routes](https://github.com/Albertzry/LeetCode/tree/master/0833-bus-routes) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions and my solution.
 | [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Albertzry/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/Albertzry/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Albertzry/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Albertzry/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
