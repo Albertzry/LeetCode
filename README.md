@@ -186,6 +186,7 @@ A collection of LeetCode questions and my solution.
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3463-alternating-groups-i](https://github.com/Albertzry/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Albertzry/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Albertzry/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Albertzry/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions and my solution.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Albertzry/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Albertzry/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/Albertzry/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Albertzry/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Albertzry/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Albertzry/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions and my solution.
 | [3291-find-if-array-can-be-sorted](https://github.com/Albertzry/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Albertzry/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Albertzry/LeetCode/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Albertzry/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
 | ------- |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions and my solution.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Albertzry/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/Albertzry/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3427-special-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Albertzry/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Albertzry/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Enumeration
 |  |
@@ -1096,6 +1100,7 @@ A collection of LeetCode questions and my solution.
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Albertzry/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Albertzry/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
 | ------- |
