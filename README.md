@@ -184,6 +184,7 @@ A collection of LeetCode questions and my solution.
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Albertzry/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Albertzry/LeetCode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Albertzry/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Albertzry/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions and my solution.
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Albertzry/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Albertzry/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/Albertzry/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Backtracking
 |  |
 | ------- |
