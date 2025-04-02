@@ -173,6 +173,7 @@ A collection of LeetCode questions and my solution.
 | [3001-apply-operations-to-maximize-score](https://github.com/Albertzry/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/Albertzry/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Albertzry/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Albertzry/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Albertzry/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Albertzry/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
