@@ -120,6 +120,7 @@ A collection of LeetCode questions and my solution.
 | [2232-adding-spaces-to-a-string](https://github.com/Albertzry/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/Albertzry/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Albertzry/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Albertzry/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Albertzry/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Albertzry/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions and my solution.
 | [2164-two-best-non-overlapping-events](https://github.com/Albertzry/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Albertzry/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Albertzry/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Albertzry/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Albertzry/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions and my solution.
 | [0004-median-of-two-sorted-arrays](https://github.com/Albertzry/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Albertzry/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -807,6 +810,7 @@ A collection of LeetCode questions and my solution.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Albertzry/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -1173,6 +1177,7 @@ A collection of LeetCode questions and my solution.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2682-count-increasing-quadruplets](https://github.com/Albertzry/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Albertzry/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Queue
@@ -1222,12 +1227,14 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [0729-my-calendar-i](https://github.com/Albertzry/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Albertzry/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Albertzry/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Albertzry/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Albertzry/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Albertzry/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
