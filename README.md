@@ -131,6 +131,7 @@ A collection of LeetCode questions and my solution.
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Albertzry/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Albertzry/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Albertzry/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Albertzry/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/Albertzry/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Albertzry/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2448-count-number-of-bad-pairs](https://github.com/Albertzry/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions and my solution.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Albertzry/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Albertzry/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Albertzry/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Albertzry/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Albertzry/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Albertzry/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions and my solution.
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Albertzry/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Albertzry/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Albertzry/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/Albertzry/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1146,6 +1149,7 @@ A collection of LeetCode questions and my solution.
 | [2145-grid-game](https://github.com/Albertzry/LeetCode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/Albertzry/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Albertzry/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Albertzry/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/Albertzry/LeetCode/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2465-shifting-letters-ii](https://github.com/Albertzry/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Albertzry/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
