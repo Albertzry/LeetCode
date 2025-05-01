@@ -376,6 +376,7 @@ A collection of LeetCode questions and my solution.
 | [2722-prime-in-diagonal](https://github.com/Albertzry/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Albertzry/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Albertzry/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/Albertzry/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Albertzry/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Albertzry/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Albertzry/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1174,6 +1175,7 @@ A collection of LeetCode questions and my solution.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Albertzry/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2682-count-increasing-quadruplets](https://github.com/Albertzry/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
+| [2998-count-symmetric-integers](https://github.com/Albertzry/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Albertzry/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3548-find-the-count-of-good-integers](https://github.com/Albertzry/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
