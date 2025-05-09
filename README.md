@@ -391,6 +391,7 @@ A collection of LeetCode questions and my solution.
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Albertzry/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/Albertzry/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Albertzry/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions and my solution.
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Albertzry/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Albertzry/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3636-check-balanced-string](https://github.com/Albertzry/LeetCode/tree/master/3636-check-balanced-string) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Albertzry/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -678,6 +680,7 @@ A collection of LeetCode questions and my solution.
 | [3243-count-the-number-of-powerful-integers](https://github.com/Albertzry/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Albertzry/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
 | ------- |
@@ -1336,4 +1339,5 @@ A collection of LeetCode questions and my solution.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Albertzry/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Albertzry/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Albertzry/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Albertzry/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
