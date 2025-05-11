@@ -71,6 +71,7 @@ A collection of LeetCode questions and my solution.
 | [1256-rank-transform-of-an-array](https://github.com/Albertzry/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/Albertzry/LeetCode/tree/master/1284-four-divisors) |
 | [1287-distance-between-bus-stops](https://github.com/Albertzry/LeetCode/tree/master/1287-distance-between-bus-stops) |
+| [1293-three-consecutive-odds](https://github.com/Albertzry/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Albertzry/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Albertzry/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Albertzry/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
