@@ -323,6 +323,7 @@ A collection of LeetCode questions and my solution.
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Albertzry/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Albertzry/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Albertzry/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Albertzry/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Albertzry/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
@@ -397,6 +398,7 @@ A collection of LeetCode questions and my solution.
 | [3548-find-the-count-of-good-integers](https://github.com/Albertzry/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Albertzry/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Albertzry/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Albertzry/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
@@ -512,6 +514,7 @@ A collection of LeetCode questions and my solution.
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Albertzry/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Albertzry/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Albertzry/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Albertzry/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3636-check-balanced-string](https://github.com/Albertzry/LeetCode/tree/master/3636-check-balanced-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Albertzry/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
@@ -688,6 +691,7 @@ A collection of LeetCode questions and my solution.
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Albertzry/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Albertzry/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Albertzry/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -1239,6 +1243,7 @@ A collection of LeetCode questions and my solution.
 | [3455-minimum-length-of-string-after-operations](https://github.com/Albertzry/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3519-find-the-number-of-winning-players](https://github.com/Albertzry/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Albertzry/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Albertzry/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Number Theory
 |  |
 | ------- |
