@@ -60,6 +60,7 @@ A collection of LeetCode questions and my solution.
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Albertzry/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Albertzry/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/Albertzry/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
 | [0952-word-subsets](https://github.com/Albertzry/LeetCode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Albertzry/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -960,6 +961,7 @@ A collection of LeetCode questions and my solution.
 | [0407-trapping-rain-water-ii](https://github.com/Albertzry/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Albertzry/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Albertzry/LeetCode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/Albertzry/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Albertzry/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Albertzry/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1142,6 +1144,7 @@ A collection of LeetCode questions and my solution.
 | [0820-find-eventual-safe-states](https://github.com/Albertzry/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/Albertzry/LeetCode/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/Albertzry/LeetCode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/Albertzry/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Albertzry/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Albertzry/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Albertzry/LeetCode/tree/master/1396-count-servers-that-communicate) |
