@@ -35,6 +35,7 @@ A collection of LeetCode questions and my solution.
 | [0075-sort-colors](https://github.com/Albertzry/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/Albertzry/LeetCode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Albertzry/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Albertzry/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Albertzry/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions and my solution.
 | [0011-container-with-most-water](https://github.com/Albertzry/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Albertzry/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Albertzry/LeetCode/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/Albertzry/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Albertzry/LeetCode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Albertzry/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Albertzry/LeetCode/tree/master/0670-maximum-swap) |
