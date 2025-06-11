@@ -548,6 +548,7 @@ A collection of LeetCode questions and my solution.
 | [3637-count-number-of-balanced-permutations](https://github.com/Albertzry/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Albertzry/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Albertzry/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Albertzry/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -582,6 +583,7 @@ A collection of LeetCode questions and my solution.
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Albertzry/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Albertzry/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Albertzry/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1278,6 +1280,7 @@ A collection of LeetCode questions and my solution.
 | [3639-zero-array-transformation-i](https://github.com/Albertzry/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Albertzry/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Albertzry/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Albertzry/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -1293,6 +1296,7 @@ A collection of LeetCode questions and my solution.
 | [3398-make-a-square-with-the-same-color](https://github.com/Albertzry/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3548-find-the-count-of-good-integers](https://github.com/Albertzry/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Albertzry/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Albertzry/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
 |  |
 | ------- |
