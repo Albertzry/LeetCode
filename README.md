@@ -184,6 +184,7 @@ A collection of LeetCode questions and my solution.
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/Albertzry/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Albertzry/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2722-prime-in-diagonal](https://github.com/Albertzry/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions and my solution.
 | [2699-count-the-number-of-fair-pairs](https://github.com/Albertzry/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/Albertzry/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Albertzry/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Albertzry/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Albertzry/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Albertzry/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions and my solution.
 | [2681-put-marbles-in-bags](https://github.com/Albertzry/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/Albertzry/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Albertzry/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Albertzry/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
