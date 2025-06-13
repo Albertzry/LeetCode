@@ -21,9 +21,6 @@ public:
 
         while (left < right) {
             int mid = left + (right - left) / 2;
-
-            // If there are enough pairs, look for a smaller threshold.
-            // Otherwise, look for a larger threshold.
             if (countValidPairs(nums, mid) >= p) {
                 right = mid;
             } else {
