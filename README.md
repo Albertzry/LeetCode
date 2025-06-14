@@ -406,6 +406,7 @@ A collection of LeetCode questions and my solution.
 | [2610-closest-prime-numbers-in-range](https://github.com/Albertzry/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Albertzry/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Albertzry/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Albertzry/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/Albertzry/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/Albertzry/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Albertzry/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions and my solution.
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Albertzry/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Albertzry/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Albertzry/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Albertzry/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Albertzry/LeetCode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2716-prime-subtraction-operation](https://github.com/Albertzry/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Albertzry/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
