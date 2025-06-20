@@ -19,9 +19,9 @@ public:
                     break;
             }
             int times1 =
-                min({north, south, k});  // modification times for N and S
+                min({north, south, k});  
             int times2 = min(
-                {east, west, k - times1});  // modification times for E and W
+                {east, west, k - times1});  
             ans = max(ans,
                       count(north, south, times1) + count(east, west, times2));
         }
@@ -30,5 +30,5 @@ public:
 
     int count(int drt1, int drt2, int times) {
         return abs(drt1 - drt2) + times * 2;
-    }  // Calculate modified Manhattan distance
+    }  
 };
