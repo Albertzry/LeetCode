@@ -271,6 +271,7 @@ A collection of LeetCode questions and my solution.
 | [0049-group-anagrams](https://github.com/Albertzry/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Albertzry/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/Albertzry/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Albertzry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/Albertzry/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Albertzry/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Albertzry/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions and my solution.
 | [0208-implement-trie-prefix-tree](https://github.com/Albertzry/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Albertzry/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Albertzry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0434-number-of-segments-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Albertzry/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Albertzry/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Albertzry/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Albertzry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Albertzry/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Albertzry/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Albertzry/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Albertzry/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Albertzry/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Albertzry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Two Pointers
