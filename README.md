@@ -281,6 +281,7 @@ A collection of LeetCode questions and my solution.
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Albertzry/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Albertzry/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Albertzry/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Albertzry/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -709,6 +710,7 @@ A collection of LeetCode questions and my solution.
 | [3427-special-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Albertzry/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Albertzry/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Albertzry/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1548,6 +1550,7 @@ A collection of LeetCode questions and my solution.
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Albertzry/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Albertzry/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Albertzry/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Albertzry/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1557,6 +1560,7 @@ A collection of LeetCode questions and my solution.
 | [2434-design-a-number-container-system](https://github.com/Albertzry/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Albertzry/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Albertzry/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
