@@ -428,6 +428,7 @@ A collection of LeetCode questions and my solution.
 | [0062-unique-paths](https://github.com/Albertzry/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Albertzry/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Albertzry/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Albertzry/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/Albertzry/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/Albertzry/LeetCode/tree/master/0441-arranging-coins) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions and my solution.
 | [0050-powx-n](https://github.com/Albertzry/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Albertzry/LeetCode/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Albertzry/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Albertzry/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Albertzry/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions and my solution.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Albertzry/LeetCode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Albertzry/LeetCode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Albertzry/LeetCode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Albertzry/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Albertzry/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
