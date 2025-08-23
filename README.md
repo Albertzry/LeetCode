@@ -258,6 +258,7 @@ A collection of LeetCode questions and my solution.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Albertzry/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Albertzry/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Albertzry/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Albertzry/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Albertzry/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1173,6 +1174,7 @@ A collection of LeetCode questions and my solution.
 | [3227-find-missing-and-repeated-values](https://github.com/Albertzry/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Albertzry/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Albertzry/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Albertzry/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Albertzry/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Albertzry/LeetCode/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Albertzry/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions and my solution.
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Albertzry/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Albertzry/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Albertzry/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Albertzry/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Albertzry/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Albertzry/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
