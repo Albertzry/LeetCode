@@ -99,6 +99,7 @@ A collection of LeetCode questions and my solution.
 | [1524-string-matching-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Albertzry/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Albertzry/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Albertzry/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Albertzry/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Albertzry/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions and my solution.
 | [0940-fruit-into-baskets](https://github.com/Albertzry/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Albertzry/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Albertzry/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Albertzry/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Albertzry/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Albertzry/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Albertzry/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions and my solution.
 | [1170-shortest-common-supersequence](https://github.com/Albertzry/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Albertzry/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Albertzry/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
