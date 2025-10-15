@@ -296,6 +296,7 @@ A collection of LeetCode questions and my solution.
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Albertzry/LeetCode/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Albertzry/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Albertzry/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Albertzry/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Albertzry/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions and my solution.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Albertzry/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Albertzry/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Albertzry/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Albertzry/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Albertzry/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Albertzry/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
