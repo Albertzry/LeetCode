@@ -300,6 +300,7 @@ A collection of LeetCode questions and my solution.
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Albertzry/LeetCode/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Albertzry/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Albertzry/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Albertzry/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Albertzry/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions and my solution.
 | [3548-find-the-count-of-good-integers](https://github.com/Albertzry/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Albertzry/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Albertzry/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Albertzry/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Albertzry/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Albertzry/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Albertzry/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions and my solution.
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Albertzry/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/Albertzry/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Albertzry/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Albertzry/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Albertzry/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Albertzry/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
