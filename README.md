@@ -302,6 +302,7 @@ A collection of LeetCode questions and my solution.
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Albertzry/LeetCode/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Albertzry/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Albertzry/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Albertzry/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Albertzry/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions and my solution.
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Albertzry/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Albertzry/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Albertzry/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Albertzry/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Albertzry/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Albertzry/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions and my solution.
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Albertzry/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Albertzry/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Albertzry/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Albertzry/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1233,6 +1236,7 @@ A collection of LeetCode questions and my solution.
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Albertzry/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Albertzry/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Albertzry/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Albertzry/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Albertzry/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
