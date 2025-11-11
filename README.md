@@ -45,6 +45,7 @@ A collection of LeetCode questions and my solution.
 | [0407-trapping-rain-water-ii](https://github.com/Albertzry/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Albertzry/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Albertzry/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Albertzry/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Albertzry/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions and my solution.
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Albertzry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0434-number-of-segments-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/Albertzry/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Albertzry/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Albertzry/LeetCode/tree/master/0567-permutation-in-string) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions and my solution.
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/Albertzry/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Albertzry/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Albertzry/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Albertzry/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
