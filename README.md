@@ -90,6 +90,7 @@ A collection of LeetCode questions and my solution.
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Albertzry/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Albertzry/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Albertzry/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Albertzry/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1284-four-divisors](https://github.com/Albertzry/LeetCode/tree/master/1284-four-divisors) |
 | [1287-distance-between-bus-stops](https://github.com/Albertzry/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/Albertzry/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -969,6 +970,7 @@ A collection of LeetCode questions and my solution.
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Albertzry/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Albertzry/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Albertzry/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Albertzry/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions and my solution.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Albertzry/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Albertzry/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Albertzry/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Albertzry/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/Albertzry/LeetCode/tree/master/1304-longest-happy-string) |
 | [1448-maximum-69-number](https://github.com/Albertzry/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Albertzry/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1120,6 +1123,7 @@ A collection of LeetCode questions and my solution.
 | [1018-largest-perimeter-triangle](https://github.com/Albertzry/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Albertzry/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Albertzry/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Albertzry/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Albertzry/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Albertzry/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Albertzry/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
