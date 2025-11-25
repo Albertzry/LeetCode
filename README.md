@@ -381,6 +381,7 @@ A collection of LeetCode questions and my solution.
 | [0952-word-subsets](https://github.com/Albertzry/LeetCode/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Albertzry/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/Albertzry/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Albertzry/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Albertzry/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Albertzry/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Albertzry/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions and my solution.
 | [0900-reordered-power-of-2](https://github.com/Albertzry/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Albertzry/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Albertzry/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1284-four-divisors](https://github.com/Albertzry/LeetCode/tree/master/1284-four-divisors) |
