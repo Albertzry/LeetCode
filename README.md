@@ -720,6 +720,7 @@ A collection of LeetCode questions and my solution.
 | [2107-find-unique-binary-string](https://github.com/Albertzry/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Albertzry/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Albertzry/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2211-count-collisions-on-a-road](https://github.com/Albertzry/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Albertzry/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Albertzry/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Albertzry/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -1245,6 +1246,7 @@ A collection of LeetCode questions and my solution.
 | [1818-maximum-score-from-removing-substrings](https://github.com/Albertzry/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Albertzry/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Albertzry/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2211-count-collisions-on-a-road](https://github.com/Albertzry/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Albertzry/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Albertzry/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Albertzry/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1444,6 +1446,7 @@ A collection of LeetCode questions and my solution.
 | [2132-convert-1d-array-into-2d-array](https://github.com/Albertzry/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Albertzry/LeetCode/tree/master/2155-find-missing-observations) |
 | [2169-simple-bank-system](https://github.com/Albertzry/LeetCode/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/Albertzry/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/Albertzry/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Albertzry/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Albertzry/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
