@@ -155,6 +155,7 @@ A collection of LeetCode questions and my solution.
 | [2079-delete-duplicate-folders-in-system](https://github.com/Albertzry/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Albertzry/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Albertzry/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Albertzry/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Albertzry/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Albertzry/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2145-grid-game](https://github.com/Albertzry/LeetCode/tree/master/2145-grid-game) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions and my solution.
 | [1925-count-square-sum-triples](https://github.com/Albertzry/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Albertzry/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Albertzry/LeetCode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Albertzry/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Albertzry/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/Albertzry/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Albertzry/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions and my solution.
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Albertzry/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Albertzry/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Albertzry/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Albertzry/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Albertzry/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/Albertzry/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Albertzry/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
