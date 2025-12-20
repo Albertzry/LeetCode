@@ -75,6 +75,7 @@ A collection of LeetCode questions and my solution.
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Albertzry/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Albertzry/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Albertzry/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Albertzry/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
 | [0952-word-subsets](https://github.com/Albertzry/LeetCode/tree/master/0952-word-subsets) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions and my solution.
 | [0868-push-dominoes](https://github.com/Albertzry/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Albertzry/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Albertzry/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Albertzry/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Albertzry/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Albertzry/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/Albertzry/LeetCode/tree/master/1006-vowel-spellchecker) |
