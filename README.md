@@ -79,6 +79,7 @@ A collection of LeetCode questions and my solution.
 | [0945-snakes-and-ladders](https://github.com/Albertzry/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
 | [0952-word-subsets](https://github.com/Albertzry/LeetCode/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Albertzry/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1002-maximum-width-ramp](https://github.com/Albertzry/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Albertzry/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Albertzry/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions and my solution.
 | [0920-uncommon-words-from-two-sentences](https://github.com/Albertzry/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Albertzry/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Albertzry/LeetCode/tree/master/0952-word-subsets) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Albertzry/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Albertzry/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-vowel-spellchecker](https://github.com/Albertzry/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Albertzry/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1084,6 +1086,7 @@ A collection of LeetCode questions and my solution.
 | [0780-max-chunks-to-make-sorted](https://github.com/Albertzry/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Albertzry/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Albertzry/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Albertzry/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Albertzry/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Albertzry/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
