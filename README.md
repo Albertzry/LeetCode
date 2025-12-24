@@ -267,6 +267,7 @@ A collection of LeetCode questions and my solution.
 | [2915-count-of-interesting-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Albertzry/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/Albertzry/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Albertzry/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1136,6 +1137,7 @@ A collection of LeetCode questions and my solution.
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Albertzry/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Albertzry/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Albertzry/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Albertzry/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Albertzry/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -1224,6 +1226,7 @@ A collection of LeetCode questions and my solution.
 | [2888-minimum-index-of-a-valid-split](https://github.com/Albertzry/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Albertzry/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Albertzry/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Albertzry/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3104-happy-students](https://github.com/Albertzry/LeetCode/tree/master/3104-happy-students) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Albertzry/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Albertzry/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
