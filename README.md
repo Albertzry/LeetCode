@@ -321,6 +321,7 @@ A collection of LeetCode questions and my solution.
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Albertzry/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3452-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3452-find-the-maximum-length-of-a-good-subsequence-ii) |
 | [3453-separate-squares-i](https://github.com/Albertzry/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Albertzry/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Albertzry/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Albertzry/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions and my solution.
 | [3427-special-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Albertzry/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Albertzry/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Albertzry/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Albertzry/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Albertzry/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -2016,6 +2018,7 @@ A collection of LeetCode questions and my solution.
 | [0731-my-calendar-ii](https://github.com/Albertzry/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Albertzry/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3454-separate-squares-ii](https://github.com/Albertzry/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Albertzry/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Albertzry/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Albertzry/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -2101,4 +2104,8 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Albertzry/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Albertzry/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Albertzry/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
