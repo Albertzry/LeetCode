@@ -339,6 +339,7 @@ A collection of LeetCode questions and my solution.
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Albertzry/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Albertzry/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Albertzry/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Albertzry/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions and my solution.
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Albertzry/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/Albertzry/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3531-count-covered-buildings](https://github.com/Albertzry/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/Albertzry/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions and my solution.
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Albertzry/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Albertzry/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Albertzry/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -1401,6 +1404,7 @@ A collection of LeetCode questions and my solution.
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Albertzry/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Albertzry/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Albertzry/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Albertzry/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1586,6 +1590,7 @@ A collection of LeetCode questions and my solution.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Albertzry/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Albertzry/LeetCode/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Albertzry/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Albertzry/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Albertzry/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Albertzry/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -2054,6 +2059,7 @@ A collection of LeetCode questions and my solution.
 | [2434-design-a-number-container-system](https://github.com/Albertzry/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Albertzry/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Albertzry/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3678-design-task-manager](https://github.com/Albertzry/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Albertzry/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Albertzry/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -2064,6 +2070,7 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Albertzry/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Albertzry/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Game Theory
 |  |
 | ------- |
