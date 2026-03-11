@@ -789,6 +789,7 @@ A collection of LeetCode questions and my solution.
 | [1304-longest-happy-string](https://github.com/Albertzry/LeetCode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Albertzry/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Albertzry/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Albertzry/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Albertzry/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Albertzry/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Albertzry/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -1509,6 +1510,7 @@ A collection of LeetCode questions and my solution.
 | [0934-bitwise-ors-of-subarrays](https://github.com/Albertzry/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/Albertzry/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Albertzry/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Albertzry/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Albertzry/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Albertzry/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Albertzry/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -1632,6 +1634,7 @@ A collection of LeetCode questions and my solution.
 | [0592-fraction-addition-and-subtraction](https://github.com/Albertzry/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/Albertzry/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/Albertzry/LeetCode/tree/master/0906-walking-robot-simulation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Albertzry/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Albertzry/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Albertzry/LeetCode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Albertzry/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
