@@ -1,6 +1,6 @@
 class Solution:
     def concatenatedBinary(self, n: int) -> int:
-        sum = ""
+        ans_bin = ''
         for i in range(1,n+1):
-            sum += bin(i)[2:]
-        return int(sum,2) % (10**9 +7)
+            ans_bin+=bin(i)[2:]
+        return int(ans_bin,2)%(10**9+7)
