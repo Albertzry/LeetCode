@@ -4,6 +4,7 @@ class Solution:
         ans = 0
         for worker in workerTimes:
             heapq.heappush(pq,[worker,worker,1])
+
         while pq and mountainHeight > 0:
             mountainHeight -= 1
             worker = heapq.heappop(pq)
@@ -11,5 +12,6 @@ class Solution:
             worker[2] += 1
             worker[0] += worker[1]*worker[2]
             heapq.heappush(pq,worker)
+            
         return ans
         
