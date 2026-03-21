@@ -391,6 +391,7 @@ A collection of LeetCode questions and my solution.
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Albertzry/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Albertzry/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Albertzry/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/Albertzry/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Albertzry/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Albertzry/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions and my solution.
 | [3195-separate-black-and-white-balls](https://github.com/Albertzry/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Albertzry/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/Albertzry/LeetCode/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Albertzry/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Albertzry/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
@@ -1633,6 +1635,7 @@ A collection of LeetCode questions and my solution.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Albertzry/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Albertzry/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Albertzry/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Albertzry/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Albertzry/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Albertzry/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Albertzry/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
