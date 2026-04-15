@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/?envType=daily-question&envId=2026-04-15">2598. Shortest Distance to Target String in a Circular Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> <strong>circular</strong> string array <code>words</code> and a string <code>target</code>. A <strong>circular array</strong> means that the array&#39;s end connects to the array&#39;s beginning.</p>
+<h2><a href="https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array">2598. Shortest Distance to Target String in a Circular Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> <strong>circular</strong> string array <code>words</code> and a string <code>target</code>. A <strong>circular array</strong> means that the array&#39;s end connects to the array&#39;s beginning.</p>
 
 <ul>
 	<li>Formally, the next element of <code>words[i]</code> is <code>words[(i + 1) % n]</code> and the previous element of <code>words[i]</code> is <code>words[(i - 1 + n) % n]</code>, where <code>n</code> is the length of <code>words</code>.</li>
