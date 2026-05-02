@@ -664,6 +664,7 @@ A collection of LeetCode questions and my solution.
 | [0650-2-keys-keyboard](https://github.com/Albertzry/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Albertzry/LeetCode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Albertzry/LeetCode/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/Albertzry/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/Albertzry/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Albertzry/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Albertzry/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions and my solution.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Albertzry/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Albertzry/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Albertzry/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Albertzry/LeetCode/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/Albertzry/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Albertzry/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Albertzry/LeetCode/tree/master/0867-new-21-game) |
