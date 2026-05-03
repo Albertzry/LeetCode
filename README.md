@@ -827,6 +827,7 @@ A collection of LeetCode questions and my solution.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Albertzry/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Albertzry/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Albertzry/LeetCode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/Albertzry/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Albertzry/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Albertzry/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Albertzry/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -1602,6 +1603,7 @@ A collection of LeetCode questions and my solution.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Albertzry/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/Albertzry/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Albertzry/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Albertzry/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
