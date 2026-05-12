@@ -144,6 +144,7 @@ A collection of LeetCode questions and my solution.
 | [1628-count-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Albertzry/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Albertzry/LeetCode/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Albertzry/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Albertzry/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Albertzry/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Albertzry/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1311,6 +1312,7 @@ A collection of LeetCode questions and my solution.
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Albertzry/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Albertzry/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Albertzry/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Albertzry/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Albertzry/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Albertzry/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Albertzry/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1412,6 +1414,7 @@ A collection of LeetCode questions and my solution.
 | [1468-check-if-n-and-its-double-exist](https://github.com/Albertzry/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Albertzry/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Albertzry/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Albertzry/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Albertzry/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Albertzry/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Albertzry/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
