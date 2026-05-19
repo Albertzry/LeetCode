@@ -1,6 +1,8 @@
 class Solution:
     def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
         s,t=nums1[0],nums1[-1]
+        if nums1[0] > nums2[-1] or nums2[0]>nums2[-1]:
+            return -1
         nums1=set(nums1)
         nums2=set(nums2)
         for num in range(s,t+1):
