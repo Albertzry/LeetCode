@@ -583,6 +583,7 @@ A collection of LeetCode questions and my solution.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Albertzry/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/Albertzry/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Albertzry/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Albertzry/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Albertzry/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Albertzry/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Albertzry/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions and my solution.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Albertzry/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Albertzry/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Albertzry/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Albertzry/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Albertzry/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Albertzry/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Albertzry/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
