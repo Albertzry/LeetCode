@@ -110,6 +110,7 @@ A collection of LeetCode questions and my solution.
 | [1287-distance-between-bus-stops](https://github.com/Albertzry/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Albertzry/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Albertzry/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1301-number-of-paths-with-max-score](https://github.com/Albertzry/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Albertzry/LeetCode/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/Albertzry/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Albertzry/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1278,6 +1279,7 @@ A collection of LeetCode questions and my solution.
 | [1170-shortest-common-supersequence](https://github.com/Albertzry/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Albertzry/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/Albertzry/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Albertzry/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Albertzry/LeetCode/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1785,6 +1787,7 @@ A collection of LeetCode questions and my solution.
 | [0945-snakes-and-ladders](https://github.com/Albertzry/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Albertzry/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Albertzry/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Albertzry/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Albertzry/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Albertzry/LeetCode/tree/master/1396-count-servers-that-communicate) |
