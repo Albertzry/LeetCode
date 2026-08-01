@@ -51,6 +51,7 @@ A collection of LeetCode questions and my solution.
 | [0416-partition-equal-subset-sum](https://github.com/Albertzry/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Albertzry/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Albertzry/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Albertzry/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Albertzry/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions and my solution.
 | [0368-largest-divisible-subset](https://github.com/Albertzry/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Albertzry/LeetCode/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Albertzry/LeetCode/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Albertzry/LeetCode/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Albertzry/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Albertzry/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Albertzry/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions and my solution.
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Albertzry/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Albertzry/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Albertzry/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Albertzry/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Albertzry/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1300,6 +1303,7 @@ A collection of LeetCode questions and my solution.
 | [0396-rotate-function](https://github.com/Albertzry/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Albertzry/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Albertzry/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Albertzry/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Albertzry/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
@@ -2549,6 +2553,7 @@ A collection of LeetCode questions and my solution.
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Albertzry/LeetCode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Albertzry/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Monotonic Queue
