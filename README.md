@@ -79,6 +79,7 @@ A collection of LeetCode questions and my solution.
 | [0854-making-a-large-island](https://github.com/Albertzry/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Albertzry/LeetCode/tree/master/0859-design-circular-deque) |
 | [0874-walking-robot-simulation](https://github.com/Albertzry/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Albertzry/LeetCode/tree/master/0877-stone-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Albertzry/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Albertzry/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Albertzry/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions and my solution.
 | [0830-largest-triangle-area](https://github.com/Albertzry/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Albertzry/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Albertzry/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Albertzry/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Albertzry/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0946-smallest-range-ii](https://github.com/Albertzry/LeetCode/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/Albertzry/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions and my solution.
 | [0826-soup-servings](https://github.com/Albertzry/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Albertzry/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Albertzry/LeetCode/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/Albertzry/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Albertzry/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Albertzry/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Albertzry/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -2554,6 +2557,7 @@ A collection of LeetCode questions and my solution.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Albertzry/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Albertzry/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Albertzry/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Monotonic Queue
