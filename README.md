@@ -815,6 +815,7 @@ A collection of LeetCode questions and my solution.
 | [3321-type-of-triangle](https://github.com/Albertzry/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Albertzry/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Albertzry/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Albertzry/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Albertzry/LeetCode/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Albertzry/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Albertzry/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -2368,6 +2369,7 @@ A collection of LeetCode questions and my solution.
 | [3201-distribute-candies-among-children-ii](https://github.com/Albertzry/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Albertzry/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Albertzry/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Albertzry/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Albertzry/LeetCode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Albertzry/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Albertzry/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
