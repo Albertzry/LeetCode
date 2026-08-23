@@ -787,6 +787,7 @@ A collection of LeetCode questions and my solution.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Albertzry/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Albertzry/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Albertzry/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Albertzry/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Albertzry/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/Albertzry/LeetCode/tree/master/2029-stone-game-ix) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions and my solution.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Albertzry/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Albertzry/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Albertzry/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/Albertzry/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Albertzry/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Albertzry/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Albertzry/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1487,6 +1489,7 @@ A collection of LeetCode questions and my solution.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Albertzry/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Albertzry/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Albertzry/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/Albertzry/LeetCode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Albertzry/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Albertzry/LeetCode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Albertzry/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -2619,6 +2622,7 @@ A collection of LeetCode questions and my solution.
 | [1140-stone-game-ii](https://github.com/Albertzry/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Albertzry/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Albertzry/LeetCode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Albertzry/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Albertzry/LeetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Albertzry/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
