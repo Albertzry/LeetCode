@@ -519,6 +519,7 @@ A collection of LeetCode questions and my solution.
 | [3875-construct-uniform-parity-array-i](https://github.com/Albertzry/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Albertzry/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Albertzry/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Albertzry/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -2419,6 +2420,7 @@ A collection of LeetCode questions and my solution.
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Albertzry/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Albertzry/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3903-smallest-stable-index-i](https://github.com/Albertzry/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Albertzry/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
 |  |
 | ------- |
