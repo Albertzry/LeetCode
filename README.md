@@ -938,6 +938,7 @@ A collection of LeetCode questions and my solution.
 | [0043-multiply-strings](https://github.com/Albertzry/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Albertzry/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Albertzry/LeetCode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Albertzry/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/Albertzry/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Albertzry/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Albertzry/LeetCode/tree/master/0179-largest-number) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions and my solution.
 | [0064-minimum-path-sum](https://github.com/Albertzry/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Albertzry/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Albertzry/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Albertzry/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Albertzry/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Albertzry/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Albertzry/LeetCode/tree/master/0198-house-robber) |
