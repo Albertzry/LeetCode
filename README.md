@@ -141,6 +141,7 @@ A collection of LeetCode questions and my solution.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Albertzry/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Albertzry/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Albertzry/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Albertzry/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Albertzry/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions and my solution.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Albertzry/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Albertzry/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Albertzry/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Albertzry/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1500-count-largest-group](https://github.com/Albertzry/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Albertzry/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions and my solution.
 | [1046-max-consecutive-ones-iii](https://github.com/Albertzry/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Albertzry/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Albertzry/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Albertzry/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Albertzry/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Albertzry/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Albertzry/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -1209,6 +1212,7 @@ A collection of LeetCode questions and my solution.
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Albertzry/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Albertzry/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Albertzry/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Albertzry/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Albertzry/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Albertzry/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Albertzry/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1410,6 +1414,7 @@ A collection of LeetCode questions and my solution.
 | [1406-stone-game-iii](https://github.com/Albertzry/LeetCode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Albertzry/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Albertzry/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Albertzry/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Albertzry/LeetCode/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Albertzry/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Albertzry/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
