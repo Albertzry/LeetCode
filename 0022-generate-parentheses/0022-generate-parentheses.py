@@ -1,22 +1,25 @@
-class Solution(object):
-    def generateParenthesis(self, n):
-        """
-        :type n: int
-        :rtype: List[str]
-        """
-        def dfs(left, right, s):
-            if len(s) == n * 2:
-                res.append(s)
-                return 
+class Solution:
+    def generateParenthesis(self, n: int) -> List[str]:
+        def generate(A):
+            if len(A) == 2*n:
+                if valid(A):
+                    ans.append("".join(A))
+            else:
+                A.append('(')
+                generate(A)
+                A.pop()
+                A.append(')')
+                generate(A)
+                A.pop()
 
-            if left < n:
-                dfs(left + 1, right, s + '(')
+        def valid(A):
+            bal = 0
+            for c in A:
+                if c == '(': bal += 1
+                else: bal -= 1
+                if bal < 0: return False
+            return bal == 0
 
-            if right < left:
-                dfs(left, right + 1, s + ')')
-        res = []
-        dfs(0, 0, '')
-        return res
-
-
-            
+        ans = []
+        generate([])
+        return ans
