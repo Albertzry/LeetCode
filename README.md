@@ -977,6 +977,7 @@ A collection of LeetCode questions and my solution.
 | [0592-fraction-addition-and-subtraction](https://github.com/Albertzry/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Albertzry/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/Albertzry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Albertzry/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Albertzry/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Albertzry/LeetCode/tree/master/0768-partition-labels) |
@@ -1404,6 +1405,7 @@ A collection of LeetCode questions and my solution.
 | [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Albertzry/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Albertzry/LeetCode/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/Albertzry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Albertzry/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Albertzry/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Albertzry/LeetCode/tree/master/0740-delete-and-earn) |
@@ -1526,6 +1528,7 @@ A collection of LeetCode questions and my solution.
 | [0611-valid-triangle-number](https://github.com/Albertzry/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Albertzry/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Albertzry/LeetCode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/Albertzry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Albertzry/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/Albertzry/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Albertzry/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1797,6 +1800,7 @@ A collection of LeetCode questions and my solution.
 | [0094-binary-tree-inorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Albertzry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Albertzry/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Albertzry/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -2864,6 +2868,7 @@ A collection of LeetCode questions and my solution.
 | [0020-valid-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Albertzry/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Albertzry/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Albertzry/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Albertzry/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
