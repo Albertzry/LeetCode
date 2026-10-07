@@ -968,6 +968,7 @@ A collection of LeetCode questions and my solution.
 | [0208-implement-trie-prefix-tree](https://github.com/Albertzry/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Albertzry/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Albertzry/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0434-number-of-segments-in-a-string](https://github.com/Albertzry/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Albertzry/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -1774,6 +1775,7 @@ A collection of LeetCode questions and my solution.
 | [0040-combination-sum-ii](https://github.com/Albertzry/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Albertzry/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Albertzry/LeetCode/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Albertzry/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Albertzry/LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/Albertzry/LeetCode/tree/master/0756-pyramid-transition-matrix) |
@@ -2290,6 +2292,7 @@ A collection of LeetCode questions and my solution.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Albertzry/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0130-surrounded-regions](https://github.com/Albertzry/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Albertzry/LeetCode/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Albertzry/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/Albertzry/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Albertzry/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Albertzry/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
