@@ -1021,6 +1021,7 @@ A collection of LeetCode questions and my solution.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Albertzry/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1524-string-matching-in-an-array](https://github.com/Albertzry/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Albertzry/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Albertzry/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Albertzry/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Albertzry/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Albertzry/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1553,6 +1554,7 @@ A collection of LeetCode questions and my solution.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Albertzry/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Albertzry/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Albertzry/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Albertzry/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Albertzry/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Albertzry/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Albertzry/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1820,6 +1822,7 @@ A collection of LeetCode questions and my solution.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Albertzry/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/Albertzry/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Albertzry/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Albertzry/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Albertzry/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Albertzry/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Albertzry/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2883,6 +2886,7 @@ A collection of LeetCode questions and my solution.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Albertzry/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Albertzry/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Albertzry/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Albertzry/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Albertzry/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Albertzry/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
