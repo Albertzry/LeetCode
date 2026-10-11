@@ -337,6 +337,7 @@ A collection of LeetCode questions and my solution.
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Albertzry/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Albertzry/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Albertzry/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Albertzry/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/Albertzry/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Albertzry/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -2522,6 +2523,7 @@ A collection of LeetCode questions and my solution.
 | [2215-finding-3-digit-even-numbers](https://github.com/Albertzry/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2682-count-increasing-quadruplets](https://github.com/Albertzry/LeetCode/tree/master/2682-count-increasing-quadruplets) |
 | [2754-maximum-strength-of-a-group](https://github.com/Albertzry/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Albertzry/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Albertzry/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Albertzry/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Albertzry/LeetCode/tree/master/2998-count-symmetric-integers) |
