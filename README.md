@@ -905,6 +905,7 @@ A collection of LeetCode questions and my solution.
 | [3676-smallest-number-with-all-set-bits](https://github.com/Albertzry/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Albertzry/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Albertzry/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Albertzry/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Albertzry/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Albertzry/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Albertzry/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1634,6 +1635,7 @@ A collection of LeetCode questions and my solution.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Albertzry/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Albertzry/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Albertzry/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Albertzry/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Albertzry/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Albertzry/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Albertzry/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
